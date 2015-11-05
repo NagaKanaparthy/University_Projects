@@ -4,10 +4,6 @@
 
 We Learn how to use shared memory and semaphores
 
-## Project 2 - Littleton
+## Project 2
 
-We learn to the various job servicing
-
-## Project 2 - Eggen (Did this for fun)
-
-We learn about pipes and IPC between them
+We learn how to use pipes

@@ -5,10 +5,11 @@ public class sicasm{
     public static void main(String[] args){
     	//Parse SICOPS file into memory to load instructions
     	//Create empty table for calculating opcodes and addresses
+        //
     }
     class symTable{
     	public static int numRows;
-		public static int[] relativeAddresses;
+        public static int[] relativeAddresses;
 		public static int[] absoluteAddresses;
         public static String[] opCode;
         public static String[] lables;
